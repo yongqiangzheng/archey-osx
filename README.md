@@ -1,18 +1,17 @@
-# Archey for 
-An archey script for Mac.
+# Archey for OS X
+An archey script for OS X.
 
+## Usage
 ```
 sudo cp archey /usr/local/bin/archey
 alias mba="archey" # optional
 ```
-
 
 这个项目，你可以学到：
 1. shell编程
 2. 了解Unix的基本命令
 3. 字符过滤和提取，grep和awk
 4. alias别名
-
 
 设置了以下参数：
 - 用户名
