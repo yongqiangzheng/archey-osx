@@ -35,7 +35,7 @@ alias mba="archey" # optional
                  ###               User: zyq
                ####                Device: MacBook Air
                ###                 System: macOS 14.1.1
-       #######    #######          Display: 2560 x 1600
+       #######    #######          Display: 2560 x 1600 Retina
      ######################        Chip: Apple M1
     #####################          Arch: arm64
     ####################           Memory: Hynix LPDDR4 8 GB
